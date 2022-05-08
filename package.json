@@ -1,0 +1,19 @@
+{
+  "name": "githuboauthentication",
+  "version": "1.0.0",
+  "description": "When User is authenticated, It extracts data:\r [Uploading image.png…]()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SayedRizwan/GithubOauthentication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SayedRizwan/GithubOauthentication/issues"
+  },
+  "homepage": "https://github.com/SayedRizwan/GithubOauthentication#readme"
+}
