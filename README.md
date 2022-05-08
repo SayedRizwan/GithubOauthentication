@@ -28,3 +28,8 @@ Insert data or swtich to gmail that has registered github account.
 
 When User is authenticated, It extracts data:
 [Uploading image.png…]()
+
+
+
+Reference:
+https://www.loginradius.com/blog/engineering/oauth-implemenation-using-node/
